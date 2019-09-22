@@ -9,15 +9,12 @@ A Fibonacci sequence is the integer sequence of 0, 1, 1, 2, 3, 5, 8....
 * 1st Fibonacci number = 0 (by assumption)
 * 2nd Fibonacci number = 1 (by assumption)
 * 3rd Fibonacci number = 1st + 2nd
-        *= 0 + 1
-        *= 1
-    
-    3rd Fibonacci number = 1st + 2nd
         = 0 + 1
         = 1
-    4th Fibonacci number = 2nd + 3rd
+* 4th Fibonacci number = 2nd + 3rd
     = 1 + 1
     = 2
+   
     5th Fibonacci number = 3rd + 4th
     = 1 + 2
     = 3
