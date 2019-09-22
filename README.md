@@ -9,8 +9,8 @@ A Fibonacci sequence is the integer sequence of 0, 1, 1, 2, 3, 5, 8....
 * 1st Fibonacci number = 0 (by assumption)
 * 2nd Fibonacci number = 1 (by assumption)
 * 3rd Fibonacci number = 1st + 2nd
-        * = 0 + 1
-        * = 1
+        *= 0 + 1
+        *= 1
     
     3rd Fibonacci number = 1st + 2nd
         = 0 + 1
