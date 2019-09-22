@@ -39,3 +39,5 @@ A Fibonacci sequence is the integer sequence of 0, 1, 1, 2, 3, 5, 8....
 3. Requires extra storage space. For every recursive calls separate memory is allocated for the variables.
 4. Recursive functions often throw a Stack Overflow Exception when processing or operations are too large.
 
+![Github logo](/images/logo.png)
+
