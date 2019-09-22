@@ -15,10 +15,11 @@ A Fibonacci sequence is the integer sequence of 0, 1, 1, 2, 3, 5, 8....
     = 1 + 1
     = 2
    
-    5th Fibonacci number = 3rd + 4th
+* 5th Fibonacci number = 3rd + 4th
     = 1 + 2
     = 3
-    6th Fibonacci number = 4th + 5th
+* 6th Fibonacci number = 4th + 5th
     = 2 + 3
     = 5
-    So, nth Fibonacci number = (n-1)th Fibonacci + (n-2)th Fibonacci
+    
+* So, nth Fibonacci number = (n-1)th Fibonacci + (n-2)th Fibonacci
