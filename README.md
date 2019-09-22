@@ -38,3 +38,6 @@ A Fibonacci sequence is the integer sequence of 0, 1, 1, 2, 3, 5, 8....
 2. Logical but difficult to trace and debug.
 3. Requires extra storage space. For every recursive calls separate memory is allocated for the variables.
 4. Recursive functions often throw a Stack Overflow Exception when processing or operations are too large.
+
+# Image 
+![Image] (https://www.google.com/search?client=firefox-b-d&biw=1280&bih=949&tbm=isch&sxsrf=ACYBGNTdX7s-elU_qFw4pXIr1W_L8UuxEA%3A1569190159764&sa=1&ei=D_GHXdulLsHe9QOvgq-wBw&q=python+fibo+&oq=python+fibo+&gs_l=img.3..35i39j0i24.4172.4172..4384...0.0..0.117.117.0j1......0....1..gws-wiz-img.b_wlxUUsDc8&ved=0ahUKEwib6brwuOXkAhVBb30KHS_BC3YQ4dUDCAY&uact=5#imgrc=JNq_TGRv3gog8M:)
