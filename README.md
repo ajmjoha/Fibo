@@ -40,4 +40,22 @@ A Fibonacci sequence is the integer sequence of 0, 1, 1, 2, 3, 5, 8....
 4. Recursive functions often throw a Stack Overflow Exception when processing or operations are too large.
 
 
+''' def recur_fibo(n):
+  
+   if n <= 1:
+       return n
+   else:
+       return(recur_fibo(n-1) + recur_fibo(n-2))
+
+nterms = 10
+if nterms <= 0:
+   print("Plese enter a positive integer")
+else:
+   print("Fibonacci sequence:")
+   for i in range(nterms):
+       print(recur_fibo(i))
+       
+'''
+
+
 
