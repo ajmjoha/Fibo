@@ -28,7 +28,7 @@ A Fibonacci sequence is the integer sequence of 0, 1, 1, 2, 3, 5, 8....
 **Advantages of Python Recursion**
 
 1. Reduces unnecessary calling of function, thus reduces length of program.
-    Very flexible in data structure like stacks, queues, linked list and quick sort.
-    Big and complex iterative solutions are easy and simple with Python recursion.
-    Algorithms can be defined recursively making it much easier to visualize and prove.
+2. Very flexible in data structure like stacks, queues, linked list and quick sort.
+3. Big and complex iterative solutions are easy and simple with Python recursion.
+4. Algorithms can be defined recursively making it much easier to visualize and prove.
 
