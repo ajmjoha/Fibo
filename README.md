@@ -5,13 +5,13 @@ A Fibonacci sequence is the integer sequence of 0, 1, 1, 2, 3, 5, 8....
 * The first two terms are 0 and 1. All other terms are obtained by adding the preceding two terms.This means to say the nth term is the sum of (n-1)th and (n-2)th term.
 
 **To Know more about Python Recursion** [Recursion](https://realpython.com/python-thinking-recursively/)
-**Process Are** 
+**Process Are ** 
 
-    1st Fibonacci number = 0 (by assumption)
-    2nd Fibonacci number = 1 (by assumption)
-    3rd Fibonacci number = 1st + 2nd
-    = 0 + 1
-    = 1
+    *1st Fibonacci number = 0 (by assumption)
+    *2nd Fibonacci number = 1 (by assumption)
+    *3rd Fibonacci number = 1st + 2nd
+        = 0 + 1
+        = 1
     4th Fibonacci number = 2nd + 3rd
     = 1 + 1
     = 2
