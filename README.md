@@ -22,6 +22,8 @@ A Fibonacci sequence is the integer sequence of 0, 1, 1, 2, 3, 5, 8....
     = 2 + 3
     = 5
     
+![Recursion](https://drive.google.com/drive/folders/102WBiV7oaWhUBFqbkIMcrYRJjkSIVclO)
+    
 ## So, nth Fibonacci number = (n-1)th Fibonacci + (n-2)th Fibonacci
 
 
