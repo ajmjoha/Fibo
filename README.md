@@ -23,3 +23,12 @@ A Fibonacci sequence is the integer sequence of 0, 1, 1, 2, 3, 5, 8....
     = 5
     
 ## So, nth Fibonacci number = (n-1)th Fibonacci + (n-2)th Fibonacci
+
+
+**Advantages of Python Recursion**
+
+1. Reduces unnecessary calling of function, thus reduces length of program.
+    Very flexible in data structure like stacks, queues, linked list and quick sort.
+    Big and complex iterative solutions are easy and simple with Python recursion.
+    Algorithms can be defined recursively making it much easier to visualize and prove.
+
