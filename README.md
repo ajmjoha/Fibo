@@ -32,3 +32,10 @@ A Fibonacci sequence is the integer sequence of 0, 1, 1, 2, 3, 5, 8....
 3. Big and complex iterative solutions are easy and simple with Python recursion.
 4. Algorithms can be defined recursively making it much easier to visualize and prove.
 
+# Disadvantages of Python Recursion
+
+1. Slow.
+2. Logical but difficult to trace and debug.
+3. Requires extra storage space. For every recursive calls separate memory is allocated for the variables.
+4. Recursive functions often throw a Stack Overflow Exception when processing or operations are too large.
+
